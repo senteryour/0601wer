@@ -1,6 +1,6 @@
 {
   "name": "difosog",
-  "description": "将v2ray部署在Heroku上",
+  "description": "difosog",
   "keywords": [
     "vless vmess"
   ],
